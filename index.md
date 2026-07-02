@@ -15,8 +15,10 @@ My project is a Mini Tank Robot. Essentially the robot uses a bluetooth to read 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w1hHq3U6-G4?si=9fnR-Sp6K69DlYNv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Summary
+## Components
+## Technical Progress
 ## Challenges
+## Future Plan
 For your first milestone, describe what your project is and how you plan to build it. You can include:
 - An explanation about the different components of your project and how they will all integrate together
 - Technical progress you've made so far
