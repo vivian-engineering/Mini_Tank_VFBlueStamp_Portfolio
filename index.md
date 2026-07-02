@@ -1,5 +1,5 @@
-# Mini Tank Robot
-My project is a Mini Tank RobotThis description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+# Mini Tank: Wilma the WOAHbot
+My project is a Mini Tank Robot. Essentially the robot uses a bluetooth to read signals sent from the app and then uses the switch() method in C++ to choose what to do. According to different cases the robot will move in different directions and project the corresponding arrow on the LED board. The hardest part about the build was understanding how the wires connected and operated relative to the board. The arduino runs on digital pins, and I've been using PWM in order to simulate what analog pins would be able to do, namely allowing the robot to move at different speeds. I also editted the code for the robot so that other buttons would allow the robot to turn while moving rather than either going straight or rotating on its own axis. One of the hardest things to build in this project was the CAD for the outside because the arms included a ball-and-socket mechanism and took countless tries to figure out how to fit the ball in the socket without falling out of it. Also, I don't understand C++ so in the beginning it was a bit challenging to code. After taking copious color-coded notes however, I was able to understand what the different functions do relative to the robot. Overall, during this project I learned about various systems and methods like PWM, IIC, and Bluetooth which all allowed me to gain a deeper understanding of how my robot, and other electronics, works.
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML 
@@ -69,8 +69,6 @@ void loop() {
 ```
 
 # Bill of Materials
-Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
-Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
