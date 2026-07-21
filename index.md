@@ -16,9 +16,10 @@ My project is a Mini Tank Robot. Essentially the robot uses a bluetooth to read 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w1hHq3U6-G4?si=9fnR-Sp6K69DlYNv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Components
+The components within my robot are the motor system, the ultrasonic sensor that rotates on a swivel, the robot's framework, and the arduino board. For my first milestone I started by building out the motor system which involved several plates that I screwed with the motors themselves, the wheels, and the wheel belts. Afterwards I built the robot's framework, which included the base plate, the LED display, and all the sensors except for the ultrasonic sensor. Next I built the ultrasonic sensor mechanism, or the face of the robot, which involves an ultrasonic sensor attached to a swivel. Finally, I assembled the arduino board itself and connected all the parts together.
 
-## Technical Progress
 ## Challenges
+One of the challenges I faced when building the robot was just trying to create the wheel mechanism. I made a substituion for a longer screw in the place of a shorter one and later on was unable to use the shorter screw in the longer screw's place. I had to dissassemble the entire structure to redo it. From that I learned that it's best to stick to the right parts as listed in the instructions, and to not just assume I have the resources to use any piece in another's stead. Another issue I had was just with assembling the robot's structure because apparently for a cleaner finish it is best to remove the paper layer on the base plate. Because of that I had to dissassemble and reassemble the entire robot which was very painful. Also, because the breadboards didn't fully combine together I assumed that something was wrong with them but apparently that was just how it fit together.
 ## Future Plan
 For your first milestone, describe what your project is and how you plan to build it. You can include:
 - An explanation about the different components of your project and how they will all integrate together
