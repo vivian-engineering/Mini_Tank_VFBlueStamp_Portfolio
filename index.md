@@ -20,8 +20,9 @@ The components within my robot are the motor system, the ultrasonic sensor that 
 
 ## Challenges
 One of the challenges I faced when building the robot was just trying to create the wheel mechanism. I made a substituion for a longer screw in the place of a shorter one and later on was unable to use the shorter screw in the longer screw's place. I had to dissassemble the entire structure to redo it. From that I learned that it's best to stick to the right parts as listed in the instructions, and to not just assume I have the resources to use any piece in another's stead. Another issue I had was just with assembling the robot's structure because apparently for a cleaner finish it is best to remove the paper layer on the base plate. Because of that I had to dissassemble and reassemble the entire robot which was very painful. Also, because the breadboards didn't fully combine together I assumed that something was wrong with them but apparently that was just how it fit together.
+
 ## Future Plan
-In the future I want to add a cool CAD exterior, and if time permits then the CAD exterior arm would have a ball and socket. Also, I want to paint the exterior of my CAD to make it look more unique, rather than the boring white plastic of the CAD. I also want to work on editting the code so that my robot can move in more complex ways rather than only being able to rotate or turn. I want to enable my robot to turn and move at the same time.
+In the future I want to add a CAD exterior, and if time permits then the CAD exterior arm would have a ball and socket. Also, I want to paint the exterior of my CAD to make it look more unique, rather than the boring white plastic of the CAD. I also want to work on editing the code so that my robot can move in more complex ways rather than only being able to rotate or turn. I want to enable my robot to turn and move at the same time.
 
 <!-- For your first milestone, describe what your project is and how you plan to build it. You can include: -->
 <!-- - An explanation about the different components of your project and how they will all integrate together -->
@@ -31,7 +32,7 @@ In the future I want to add a cool CAD exterior, and if time permits then the CA
 
 # Second Milestone
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JIrFPbK689g?si=9VcRaQSX-hb6To9b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - Technical details of what you've accomplished and how they contribute to the final goal
