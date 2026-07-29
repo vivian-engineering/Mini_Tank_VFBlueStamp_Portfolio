@@ -35,9 +35,10 @@ In the future I want to add a CAD exterior, and if time permits then the CAD ext
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JIrFPbK689g?si=9VcRaQSX-hb6To9b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Accomplishments
-
+This milestone mainly consisted of uploading and understanding the code for the robot. The code did come prewritten but I decided that I wanted to understand the code and decipher it anyways, especially since I was interested in making modifications. I have had previous experience with java in school, but none with C++ so deciphering the code was definitely a journey. What I ended up doing was writing down all my code on a piece of paper and then writing all my notes and questions surrounding the code. It took me about a week but I now feel like I have basic understanding of how the code works.
 ## Challenges to Overcome
-## Next Milestonee
+Ridiculously one of the biggest challenges to overcome was when something broke in the robot and we couldn't figure out what. We tried switching the battery and plugging in all the wires all over again. We could not figure out what was wrong with the robot. Turns out one of the instructors had turned my robot off, and we had spent 30 minutes trying to figure out what was broken. So needless to say I learned the importance of keeping track of the state of your robot and what has been done to it. Also it is important to turn off your robot so you don't kill the battery and the instructors have to turn it off for you.
+## Next Milestone
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
