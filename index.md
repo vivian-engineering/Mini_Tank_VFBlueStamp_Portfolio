@@ -37,13 +37,15 @@ In the future I want to add a CAD exterior, and if time permits then the CAD ext
 ## Accomplishments
 This milestone mainly consisted of uploading and understanding the code for the robot. The code did come prewritten but I decided that I wanted to understand the code and decipher it anyways, especially since I was interested in making modifications. I have had previous experience with java in school, but none with C++ so deciphering the code was definitely a journey. What I ended up doing was writing down all my code on a piece of paper and then writing all my notes and questions surrounding the code. It took me about a week but I now feel like I have basic understanding of how the code works.
 ## Challenges to Overcome
-Ridiculously one of the biggest challenges to overcome was when something broke in the robot and we couldn't figure out what. We tried switching the battery and plugging in all the wires all over again. We could not figure out what was wrong with the robot. Turns out one of the instructors had turned my robot off, and we had spent 30 minutes trying to figure out what was broken. So needless to say I learned the importance of keeping track of the state of your robot and what has been done to it. Also it is important to turn off your robot so you don't kill the battery and the instructors have to turn it off for you.
+Ridiculously one of the biggest challenges to overcome was when something broke in the robot and we couldn't figure out what. We tried switching the battery and plugging in all the wires all over again. We could not figure out what was wrong with the robot. Turns out one of the instructors had turned my robot off, and we had spent 30 minutes trying to figure out what was broken. So needless to say I learned the importance of keeping track of the state of your robot and what has been done to it. Also, it is important to turn off your robot so you don't kill the battery and the instructors have to turn it off for you. One of the other challenges faced was trying to find the right libraries to use because the code was not the most updated code relative to arduino libraries. So I actually had to go a couple years ago to find the right libraries to use, it was a lot of troubleshooting.
 ## Next Milestone
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+For my next milestone I am going to work on the exterior of the robot. Mostly this will consist on working on the CAD and making the robot have a cool exoskeleton that hides all the internal workings and wires. Also, at some point I want to work on integrating the ultrasound and its use into the code so that hopefully there is an override function that prevents me from repeatedly driving the robot into the wall or into chairs. I also want to add two more switch cases that allow my robot to turn without rotating on its own axis because as of now that is what it does. The motion does not mimic that of a car's at all and I want it to resemble a car more.
+
+<!-- For your second milestone, explain what you've worked on since your previous milestone. You can highlight: --> 
+<!-- - Technical details of what you've accomplished and how they contribute to the final goal -->
+<!-- - What has been surprising about the project so far -->
+<!-- - Previous challenges you faced that you overcame -->
+<!-- - What needs to be completed before your final milestone  -->
 
 # Final Milestone
 
