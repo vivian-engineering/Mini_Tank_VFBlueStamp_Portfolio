@@ -66,7 +66,8 @@ One of the most challenging things about the CAD was when I tried to make arms t
 After everything I learned at BlueStamp Engineering I hope that I get the chance to apply the concepts and tools I learned to my time at university as well as in my career. I plan on becoming an electrical engineer and I really enjoyed learning about these different aspects of electrical engineering from our instructors who were mostly all electrical engineers. I also loved using the Dremel and hope I get to use that in the future as well.
 
 # Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
+![Headstone Image](IMG_4720 (1).heic)
+![Headstone Image](Screenshot 2026-08-27 002510.png)
 
 # Code
 
