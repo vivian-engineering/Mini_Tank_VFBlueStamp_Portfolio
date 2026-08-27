@@ -49,11 +49,21 @@ For my next milestone I am going to work on the exterior of the robot. Mostly th
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OLPH3qbCWWQ?si=1EEm7qw2A0E9uIOH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+## Accomplishments
+For this milestone I mostly worked on the exterior portion of the robot, mainly the CAD. Since the first milestone I have 3D printed two attempts at the CAD and I even got to paint one of them. I did finally succeed in fitting the CAD onto the robot itself and in making the robot look somewhat like Wall-E. I also ended up adding to more functions to the robot so that it could move in more complex ways, rather than either rotating on it's own axis and moving forwards and backwards.
+## Challenges
+One of the most challenging things about the CAD was when I tried to make arms that would rotate on a ball and socket. I learned how to make the ball and socket from an instructional video, but my design was not approved. So I redesigned the ball and socket to get approval but when I printed out the new version the ball and socket did not fit together. I eventually had to move on because of time constraints. Another one of the challenges I faced was simply gathering all the measurements for the CAD. It was a very slow and painful process and even though I remeasured everything so many times, one of the measurements was a little off so I had to adjust the CAD after it had already been printed so that it would fit.
+## What I Learned
+- How to solder, assemble a machine, and use a Dremel.
+- How to adapt to different situations when the machine is not working the way you want it to.
+- How to keep track of progress and record what needs to be fixed.
+- Ohm's law, voltage, resistors, and the definition of a coulomb.
+- I increased my knowledge and experience with C++.
+- PWM, IIC, and the switch() method.
+- Shell, Boolean, Split, and Move Face method on Onshape.
+- How ultrasonic sensors and accelerometers work.
+## In The Future
+After everything I learned at BlueStamp Engineering I hope that I get the chance to apply the concepts and tools I learned to my time at university as well as in my career. I plan on becoming an electrical engineer and I really enjoyed learning about these different aspects of electrical engineering from our instructors who were mostly all electrical engineers. I also loved using the Dremel and hope I get to use that in the future as well.
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
