@@ -62,6 +62,7 @@ One of the most challenging things about the CAD was when I tried to make arms t
 - PWM, IIC, and the switch() method.
 - Shell, Boolean, Split, and Move Face method on Onshape.
 - How ultrasonic sensors and accelerometers work.
+
 ## In The Future
 After everything I learned at BlueStamp Engineering I hope that I get the chance to apply the concepts and tools I learned to my time at university as well as in my career. I plan on becoming an electrical engineer and I really enjoyed learning about these different aspects of electrical engineering from our instructors who were mostly all electrical engineers. I also loved using the Dremel and hope I get to use that in the future as well.
 
